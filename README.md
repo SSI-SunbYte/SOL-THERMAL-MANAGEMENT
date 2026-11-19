@@ -12,7 +12,6 @@ Please read everything carefully. If you need any help, let us know :D
 
 | Exercises: |
 | :--- |
-
 | [Task 1: Flashing LEDs](02-flashing-leds.md) |
 | [Task 2: Building the Thermistor Circuit](03-building-thermistor.md) |
 | [Task 3: Using Serial Monitor & Finishing Up](04-serial-monitor.md) |
