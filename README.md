@@ -6,10 +6,14 @@ The workshop is broken down into exercises to be done in order.
 
 Please read everything carefully. If you need any help, let us know :D
 
+
+| [How does a breadboard work!? ](01-connecting-arduino.md) |
+
+
 | Exercises: |
 | :--- |
-| [01 Connecting your Arduino to your laptop](01-connecting-arduino.md) |
-| [02 Flashing LEDs](02-flashing-leds.md) |
-| [03 Building the Thermistor Circuit](03-building-thermistor.md) |
-| [04 Using Serial Monitor & Finishing Up](04-serial-monitor.md) |
-| [05 Challenges - For Nerds](05-challenges.md) |
+
+| [Task 1: Flashing LEDs](02-flashing-leds.md) |
+| [Task 2: Building the Thermistor Circuit](03-building-thermistor.md) |
+| [Task 3: Using Serial Monitor & Finishing Up](04-serial-monitor.md) |
+| [Challenges - For Nerds](05-challenges.md) |
