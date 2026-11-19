@@ -3,9 +3,10 @@
 Before we begin trying to make a dummy replica of Sunbyte's Thermal Management System, let us go through a small introduction about Arduino Uno and Breadboard!!!
 
 # Arduino
+![Arduino Uno](Arduino-Uno.png)
 The Arduino Uno is a small, programmable computer known as a microcontroller. It acts as the "brain" of your electronics projects by reading inputs (like a button press or temperature sensor) and turning them into outputs (like lighting an LED or spinning a motor). You write code on your computer and upload it to the board via a USB cable.
 
-#Key Parts of the Arduino Uno
+# Key Parts of the Arduino Uno
 
 **The Microchip:** The actual brain (typically the ATmega328P) that stores and runs your code on a continuous loop.
 
@@ -16,6 +17,7 @@ The Arduino Uno is a small, programmable computer known as a microcontroller. It
 **Power Pins (5V, 3.3V, GND):** Provide electrical power (Voltage) and a safe return path (Ground) for your circuits.
 
 # Breadboards
+![Breadboard](Breadboard.png)
 A breadboard is a rectangular plastic board with a grid of holes used for building temporary circuits without any soldering. It acts as a testing ground where you can plug in wires, LEDs, and sensors to see if your circuit works before making it permanent.
 
 # How a Breadboard Works
