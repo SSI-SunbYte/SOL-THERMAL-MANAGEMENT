@@ -5,7 +5,7 @@ Before we begin trying to make a dummy replica of Sunbyte's Thermal Management S
 # Arduino
 
 The Arduino Uno is a small, programmable computer known as a microcontroller. It acts as the "brain" of your electronics projects by reading inputs (like a button press or temperature sensor) and turning them into outputs (like lighting an LED or spinning a motor). You write code on your computer and upload it to the board via a USB cable.
-![Arduino Uno](Arduino_Uno.png)
+![Arduino Uno](ArduinoUno.png)
 # Key Parts of the Arduino Uno
 
 **The Microchip:** The actual brain (typically the ATmega328P) that stores and runs your code on a continuous loop.
