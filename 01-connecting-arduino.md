@@ -3,9 +3,9 @@
 Before we begin trying to make a dummy replica of Sunbyte's Thermal Management System, let us go through a small introduction about Arduino Uno and Breadboard!!!
 
 # Arduino
-![Arduino Uno](Arduino-Uno.png)
-The Arduino Uno is a small, programmable computer known as a microcontroller. It acts as the "brain" of your electronics projects by reading inputs (like a button press or temperature sensor) and turning them into outputs (like lighting an LED or spinning a motor). You write code on your computer and upload it to the board via a USB cable.
 
+The Arduino Uno is a small, programmable computer known as a microcontroller. It acts as the "brain" of your electronics projects by reading inputs (like a button press or temperature sensor) and turning them into outputs (like lighting an LED or spinning a motor). You write code on your computer and upload it to the board via a USB cable.
+![Arduino Uno](Arduino_Uno.png)
 # Key Parts of the Arduino Uno
 
 **The Microchip:** The actual brain (typically the ATmega328P) that stores and runs your code on a continuous loop.
@@ -17,9 +17,9 @@ The Arduino Uno is a small, programmable computer known as a microcontroller. It
 **Power Pins (5V, 3.3V, GND):** Provide electrical power (Voltage) and a safe return path (Ground) for your circuits.
 
 # Breadboards
-![Breadboard](Breadboard.png)
-A breadboard is a rectangular plastic board with a grid of holes used for building temporary circuits without any soldering. It acts as a testing ground where you can plug in wires, LEDs, and sensors to see if your circuit works before making it permanent.
 
+A breadboard is a rectangular plastic board with a grid of holes used for building temporary circuits without any soldering. It acts as a testing ground where you can plug in wires, LEDs, and sensors to see if your circuit works before making it permanent.
+![Breadboard](Breadboard.png)
 # How a Breadboard Works
 
 **Terminal Strips (The Middle Workspace):** The holes in the main area are grouped into short horizontal rows (typically 5 holes wide, labeled a-e and f-j). Hidden metal clips underneath connect these 5 holes together. If you plug two wires into the same numbered row, they are electrically connected.
